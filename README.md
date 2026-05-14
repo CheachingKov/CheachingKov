@@ -1,9 +1,6 @@
-#Chingiee
---------
+Chingiee
 # 💫 About Me:
-I'm Kov Cheaching, a Computer Science student who specialize in Software Engineering, with <br>strong interest in programming and solving problem. I enjoy turning ideas into pratical projects <br>that can help society and improve everyday life through technology. I am always open to learning<br>new concepts and taking on challenging projects that help me grow as a developer.<br>
-
-
+I'm Kov Cheaching, a Computer Science student who specialize in Software Engineering, with <br>strong interest in programming and solving problem. I enjoy turning ideas into pratical projects <br>that can help society and improve everyday life through technology. I am always open to learning<br>new concepts and taking on challenging projects that help me grow as a developer.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kov.Cheaching20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheaching-kov-5267503ba) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ching_kov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kovcheaching20@gmail.com) 
 
