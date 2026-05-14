@@ -2,7 +2,7 @@
 # 💫 About Me:
 **`Potential Innovator`** **`Developer`** **`Student`**
 
-I'm Kov Cheaching, a Computer Science student specializing in Software Engineering with <br>strong interest in programming and solving problem. I enjoy turning ideas into pratical projects <br>that can help society and improve everyday life through technology. I am always open to learning<br>new concepts and taking on challenging projects that help me grow as a developer.<br>
+I'm Kov Cheaching, a Computer Science student specializing in Software Engineering with <br>a strong interest in programming and solving problem. I enjoy turning ideas into pratical projects <br>that can help society and improve everyday life through technology. I am always open to learning<br>new concepts and taking on challenging projects that help me grow as a developer.<br>
 
 Currently debugging my life while debugging my code.😭
 ## 🌐 Socials:
