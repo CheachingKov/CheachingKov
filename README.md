@@ -1,5 +1,7 @@
-Chingiee
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4F7C6&background=FFFFFF00&width=435&lines=Hi+twin%2C+I'm+Chingiee%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 # 💫 About Me:
+**`Potential Innovator`** **`Developer`** **`Student`**
+
 I'm Kov Cheaching, a Computer Science student who specialize in Software Engineering, with <br>strong interest in programming and solving problem. I enjoy turning ideas into pratical projects <br>that can help society and improve everyday life through technology. I am always open to learning<br>new concepts and taking on challenging projects that help me grow as a developer.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kov.Cheaching20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheaching-kov-5267503ba) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ching_kov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kovcheaching20@gmail.com) 
