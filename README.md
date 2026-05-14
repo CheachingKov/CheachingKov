@@ -12,5 +12,7 @@ I'm Kov Cheaching, a Computer Science student who specialize in Software Enginee
 
 ---
 [![](https://komarev.com/ghpvc/?username=CheachingKov&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center"></div>
+![](https://komarev.com/ghpvc/?username=CheachingKov&color=blueviolet)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
